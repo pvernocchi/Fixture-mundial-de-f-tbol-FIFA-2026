@@ -20,7 +20,7 @@ El libro está compuesto por varias hojas con funciones específicas:
 - **Standings**: tablas de posiciones por grupo y ranking de mejores terceros.
 - **Matches**: carga y seguimiento de partidos de fase de grupos.
 - **Standings Data**: base de datos de soporte para cálculos de posiciones.
-- **Knockout**: cuadro de eliminación directa (desde dieciseisavos hasta final).
+- **Knockout**: cuadro de eliminación directa (desde la primera ronda eliminatoria hasta la final).
 - **Knockout Data**: datos auxiliares para cruces y resultados eliminatorios.
 - **Teams**: listado de selecciones y su grupo correspondiente.
 - **Settings**: parámetros generales del torneo (fechas, formato y reglas de puntos).
