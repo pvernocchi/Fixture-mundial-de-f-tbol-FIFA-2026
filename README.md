@@ -41,7 +41,7 @@ El archivo está preparado para que ingreses resultados y el resto se actualice 
    - cruces de rondas eliminatorias
 3. 📈 Visualizar el estado general en `Dashboard`.
 
-> 💡 Recomendación: editar solo las celdas de entrada marcadas para resultados (las columnas amarillas indicadas en el archivo) para no romper fórmulas.
+> 💡 Recomendación: editar solo las celdas específicamente designadas para ingresar resultados (en `Matches` y `Knockout`, las columnas de Team 1 Goals y Team 2 Goals) para no romper fórmulas.
 
 ---
 
@@ -61,7 +61,7 @@ El archivo está preparado para que ingreses resultados y el resto se actualice 
 
 ## 🚀 Cómo usarlo rápidamente
 
-1. Abrir `Fixture mundial 2026.xlsx` en Microsoft Excel de escritorio (el archivo está optimizado para este entorno; en otras suites como Excel Online o LibreOffice pueden variar algunas fórmulas/formatos).
+1. Abrir `Fixture mundial 2026.xlsx` en Microsoft Excel de escritorio (el archivo está optimizado para este entorno; en otras suites como Excel Online o LibreOffice pueden presentarse variaciones en algunas fórmulas o formatos).
 2. Ir a `Matches` y completar resultados.
 3. Continuar con `Knockout` cuando inicie la fase eliminatoria.
 4. Revisar `Standings` y `Dashboard` para ver clasificación y progreso.
