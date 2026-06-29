@@ -51,7 +51,7 @@ El archivo está preparado para que ingreses resultados y el resto se actualice 
 - Clasificación configurada en la plantilla:
   - ✅ Los 2 primeros de cada grupo.
   - ✅ Los 8 mejores terceros.
-- Total de partidos modelados en este archivo: **104**.
+- Total de partidos modelados en este archivo: **104** (72 en fase de grupos + 32 en eliminación directa).
 - Sistema de puntaje:
   - Victoria: 3 puntos
   - Empate: 1 punto
@@ -61,7 +61,7 @@ El archivo está preparado para que ingreses resultados y el resto se actualice 
 
 ## 🚀 Cómo usarlo rápidamente
 
-1. Abrir `Fixture mundial 2026.xlsx` en Microsoft Excel de escritorio (el archivo está optimizado para este entorno).
+1. Abrir `Fixture mundial 2026.xlsx` en Microsoft Excel de escritorio (el archivo está optimizado para este entorno; en otras suites como Excel Online o LibreOffice pueden variar algunas fórmulas/formatos).
 2. Ir a `Matches` y completar resultados.
 3. Continuar con `Knockout` cuando inicie la fase eliminatoria.
 4. Revisar `Standings` y `Dashboard` para ver clasificación y progreso.
