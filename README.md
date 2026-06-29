@@ -31,7 +31,7 @@ El libro está compuesto por varias hojas con funciones específicas:
 
 El archivo está preparado para que ingreses resultados y el resto se actualice automáticamente:
 
-1. ✍️ Cargar goles en las columnas de resultado de las hojas:
+1. ✍️ Cargar resultados (goles) en las columnas de resultado de las hojas:
    - `Matches` (fase de grupos)
    - `Knockout` (eliminación directa)
 2. 🔄 El sistema recalcula:
@@ -41,7 +41,7 @@ El archivo está preparado para que ingreses resultados y el resto se actualice 
    - cruces de rondas eliminatorias
 3. 📈 Visualizar el estado general en `Dashboard`.
 
-> 💡 Recomendación: editar solo celdas de carga de resultados para no romper fórmulas.
+> 💡 Recomendación: editar solo las celdas de entrada marcadas para resultados (las columnas amarillas indicadas en el archivo) para no romper fórmulas.
 
 ---
 
@@ -61,7 +61,7 @@ El archivo está preparado para que ingreses resultados y el resto se actualice 
 
 ## 🚀 Cómo usarlo rápidamente
 
-1. Abrir `Fixture mundial 2026.xlsx` en Excel (recomendado Microsoft Excel de escritorio).
+1. Abrir `Fixture mundial 2026.xlsx` en Microsoft Excel de escritorio (el archivo está optimizado para este entorno).
 2. Ir a `Matches` y completar resultados.
 3. Continuar con `Knockout` cuando inicie la fase eliminatoria.
 4. Revisar `Standings` y `Dashboard` para ver clasificación y progreso.
@@ -81,4 +81,3 @@ Este proyecto está enfocado en:
 ## 📄 Archivo principal
 
 - `Fixture mundial 2026.xlsx`
-
