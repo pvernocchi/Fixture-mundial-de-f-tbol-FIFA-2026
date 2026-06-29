@@ -45,13 +45,13 @@ El archivo está preparado para que ingreses resultados y el resto se actualice 
 
 ---
 
-## 🧠 Lógica del torneo modelada
+## 🧠 Lógica del torneo modelada en esta plantilla
 
-- 48 equipos divididos en 12 grupos de 4.
-- Clasifican:
+- Formato configurado en el archivo: **48 equipos divididos en 12 grupos de 4**.
+- Clasificación configurada en la plantilla:
   - ✅ Los 2 primeros de cada grupo.
   - ✅ Los 8 mejores terceros.
-- Total de partidos modelados: **104**.
+- Total de partidos modelados en este archivo: **104**.
 - Sistema de puntaje:
   - Victoria: 3 puntos
   - Empate: 1 punto
